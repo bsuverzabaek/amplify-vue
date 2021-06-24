@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyvue-dev-211248-authRole",
+      "UnauthRoleArn": "arn:aws:iam::454292364057:role/amplify-amplifyvue-dev-211248-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::454292364057:role/amplify-amplifyvue-dev-211248-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-amplifyvue-dev-211248-deployment",
+      "UnauthRoleName": "amplify-amplifyvue-dev-211248-unauthRole",
+      "StackName": "amplify-amplifyvue-dev-211248",
+      "StackId": "arn:aws:cloudformation:us-east-2:454292364057:stack/amplify-amplifyvue-dev-211248/93675f90-6ce8-11eb-9321-0aee4f45e49a",
+      "AmplifyAppId": "d3d87uf94oz4zu"
+    },
+    "categories": {
+      "auth": {
+        "cognito3d1ff544": {}
+      }
+    }
+  }
+}
